@@ -2,7 +2,7 @@
 # Elementos del desarrollo de software
 ## Introducció
 ### Tipos de software
-- **De sisteme**: Sistemes operatius, controladors etc Aquell programari que gestiona el maquinari. 
+- **De sistema**: Sistemes operatius, controladors etc Aquell programari que gestiona el maquinari. 
 - **D'aplicació:** Tots aquells programes que te una finalidad de facilitar una tasca, navegadors, processadors de text etc.
 - **De desenvolupament:** Tot el programari que fem servir per desenvolupar els programes (interprets, compiladors, editors etc.)
 ### Relació hardware-software
@@ -10,5 +10,21 @@
 - **Memoria RAM:** Guarda de manera temporal el codi binari dels arxius executables i els arxius de dades en us. 
 - **CPU:** Llegeix i executa les instruccions i els arxius guardats en la memoria RAM (Random Acces Memory)
 - **E/S:** Recull noves dades desde l'entrada, es mostren els resultats, es llegeixen/guarden al disc..
+### Codis font, objecte y executable
+- **Codi font:** Arxiu de text llegible, escrit en un llenguatge de programació 
+- **Codi objecte:** Arxiu binari no executable (un arxiu intermedi)
+- **Codi ejecutable:** Un arxiu binari executable.
+
 ## Ciclo de vida del software
+### Engineyeria de software
+- Es la disciplica que estudia els principis i les metodologies per el desenvolupament i manteniment del programari i els sistemes.
+### Fases principals del desenvolupament de software.
+- **Analisis:**
+- **Diseny: **
+- **Codificació:**
+- **Proves:**
+- **Manteniment:**
+
+
+
 
