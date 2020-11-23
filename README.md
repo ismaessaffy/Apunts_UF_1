@@ -22,14 +22,14 @@
 - **Analisis:**
  *És la fase en la qual es deteminen les necessitat que hem de cobrir amb el software a desenvolupar i els requists que ha de complir.*
  **L'especificació dels riquisits ha de:** 
- - Ser completa i sense omisions
- - Ser concisa
- - Evitar ambiguitats
- - Evitar  detalls de diseny o implementació
- - Ser entenible pel client
- - Separar requisits funcionals dels no funcionals
- - Dividir i jerarquitzar el model
- - Fixar criteris de validació
+  - Ser completa i sense omisions
+  - Ser concisa
+  - Evitar ambiguitats
+  - Evitar  detalls de diseny o implementació
+  - Ser entenible pel client
+  - Separar requisits funcionals dels no funcionals
+  - Dividir i jerarquitzar el model
+  - Fixar criteris de validació
  
 
 - **Diseny:**
