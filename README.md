@@ -20,10 +20,10 @@
 - Es la disciplina que estudia els principis i les metodologies per el desenvolupament i manteniment del programari i els sistemes.
 ### Fases principals del desenvolupament de software.
 - **Analisis:**
- És la fase en la qual es deteminen les necessitat que hem de cobrir amb el software a desenvolupar i els requists que ha de complir.
- L'especificació dels riquisits ha de: 
- - Completa i sense omisions
- - Concisa
+ *És la fase en la qual es deteminen les necessitat que hem de cobrir amb el software a desenvolupar i els requists que ha de complir.*
+ **L'especificació dels riquisits ha de:** 
+ - Ser completa i sense omisions
+ - Ser concisa
  - Evitar ambiguitats
  - Evitar  detalls de diseny o implementació
  - Ser entenible pel client
