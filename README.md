@@ -21,7 +21,7 @@
 ### Fases principals del desenvolupament de software.
 - **Analisis:**
  *És la fase en la qual es deteminen les necessitat que hem de cobrir amb el software a desenvolupar i els requists que ha de complir.*
- **L'especificació dels riquisits ha de:** 
+-**L'especificació dels riquisits ha de:** 
   - Ser completa i sense omisions
   - Ser concisa
   - Evitar ambiguitats
@@ -33,6 +33,14 @@
  
 
 - **Diseny:**
+  - Es descomposa i s'organitza el sistema en elements que poder ser desenvolupats per separat.
+  - S'espeficifica la interrelació i funcionalitat dels elements per separat. 
+  - **Les activitats habituals acostumen a ser:** 
+   - Diseny arquitectònic
+   - Deseny detallat
+   - Diseny de dades
+   - Diseny de interficie
+
 - **Codificació:**
 - **Proves:**
 - **Manteniment:**
