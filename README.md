@@ -43,8 +43,13 @@
    - Diseny de interficie
 
 - **Codificació:**
+ - *S'escriu el codi font de cada component*
 - **Proves:**
+ - L'objectiu principal de les proves ha de ser fer fallar el programa per trobar errors i solucionar-los.
+ - S'ha de maximitzar l'exposicio del programa a situacions diferents que poden provocar errors. 
+
 - **Manteniment:**
+
 
 
 
