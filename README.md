@@ -17,10 +17,12 @@
 
 ## Ciclo de vida del software
 ### Engineyeria de software
-- Es la disciplica que estudia els principis i les metodologies per el desenvolupament i manteniment del programari i els sistemes.
+- Es la disciplina que estudia els principis i les metodologies per el desenvolupament i manteniment del programari i els sistemes.
 ### Fases principals del desenvolupament de software.
 - **Analisis:**
-- **Diseny: **
+ - ddd
+
+- **Diseny:**
 - **Codificació:**
 - **Proves:**
 - **Manteniment:**
