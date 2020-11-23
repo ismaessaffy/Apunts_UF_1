@@ -33,13 +33,14 @@
  
 
 - **Diseny:**
+  
   - Es descomposa i s'organitza el sistema en elements que poder ser desenvolupats per separat.
   - S'espeficifica la interrelació i funcionalitat dels elements per separat. 
   - **Les activitats habituals acostumen a ser:** 
-   * Diseny arquitectònic
-    * Deseny detallat
-    * Diseny de dades
-    * Diseny de interficie
+    *Diseny arquitectònic
+    *Deseny detallat
+    *Diseny de dades
+    *Diseny de interficie
 
 - **Codificació:**
 - **Proves:**
