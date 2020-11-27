@@ -71,6 +71,8 @@
   - **Prototips:** A vegades els requisits no estan especificats clarament degut a manca d'experiencia previa, omisio o falta de concreció per part del client. Es a dir que el desenvolupador fa un prototip durant la fase d'analisis, aquest prototip es presentat al client i apartir d'aqui es modifica. Es pot repetir aquest procés molts cops fins que es dona amb el que vol el client/usuari. Hi ha dos tipus de prototip:
    - **Prototips rapids:** Es un prototip que nomes te el proposit de saber que vol el client i cop acabat es pot eliminar.
    - **Prototips evolutius:** Son prototips que es fan amb les mateixses eines i llenguatges que el producte final i pertant es fan sercir com a base per desenvolupar el projecte. 
+   - **Model en espiral:** Desenvolupat per Boehm l'any 1998, es un model de desenvolupamnet que consisteix en fer que el proces passi per la comunicació amb el client, planificació, analisi de risc, enginyeria, construcció i adaptació i evalucio del client per cada fase. D'aquesta manera s'optimitza el temps ja que s'augmenta la participacio del client i pertant s'evita cometre errors que hagi de ser corregit de maneres poc convenients. 
+  
    
   
 
