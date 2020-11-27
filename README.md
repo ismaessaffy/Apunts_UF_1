@@ -64,6 +64,16 @@
   - **Proves d'integració:** Es proven els moduls funcionant en conjunt i un cop finalitza aquest procés s'obté un sistema útil.
   - **Documentació:** Documentacio per l'usuari i pels tecnics i desenvolupadors involucrats.
   - **Manteniment:** Informes d'errors y un control dels canvis. 
+## Models de desenvolupament de software.
+- ### Models classics.
+  - **Model en cascada:** És el model més antic, es compon de totes les fases de desenvolupament pero aquestes es porten a terme de manera ordenada. El resultat de cada fase serveix per iniciar la seguent. Al se tant sequencia, no es gaire flexible aixi que quan hi ha canvis d'especificacions, l'aplicació d'aquests canvis es molt lenta i tediosa. 
+  - **Model en V:** Molt semblant al model en casacada, no obstant atribueix l'altura de la V als nivells d'abstracció, sent el nivell d'abstraccio mes alt el que correspon a les parts mes altes de la V. 
+  - **Prototips:** A vegades els requisits no estan especificats clarament degut a manca d'experiencia previa, omisio o falta de concreció per part del client. Es a dir que el desenvolupador fa un prototip durant la fase d'analisis, aquest prototip es presentat al client i apartir d'aqui es modifica. Es pot repetir aquest procés molts cops fins que es dona amb el que vol el client/usuari. Hi ha dos tipus de prototip:
+   - **Prototips rapids:** Es un prototip que nomes te el proposit de saber que vol el client i cop acabat es pot eliminar.
+   - **Prototips evolutius:** Son prototips que es fan amb les mateixses eines i llenguatges que el producte final i pertant es fan sercir com a base per desenvolupar el projecte. 
+   
+  
+
   
 
 
