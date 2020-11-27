@@ -21,7 +21,7 @@
 ### Fases principals del desenvolupament de software.
 - **Analisis:**
  *És la fase en la qual es deteminen les necessitat que hem de cobrir amb el software a desenvolupar i els requists que ha de complir.*
--**L'especificació dels riquisits ha de:** 
+- **L'especificació dels riquisits ha de:** 
   - Ser completa i sense omisions
   - Ser concisa
   - Evitar ambiguitats
@@ -47,8 +47,39 @@
 - **Proves:**
  - L'objectiu principal de les proves ha de ser fer fallar el programa per trobar errors i solucionar-los.
  - S'ha de maximitzar l'exposicio del programa a situacions diferents que poden provocar errors. 
-
 - **Manteniment:**
+  - Un cop el software ja està sent utilitzat, a vegaes pot donar-se el cas d'haver de modificar-lo en certes ocasions.
+  - El tipu de manteniment pot ser:
+  - **Corretiu:** Es corregeixen defectes.
+  - **Perfectiu:** Millora la funcionalitat.
+  - **Evolutiu:** Afegeix funcioanalitats.
+  - **Adaptatiu:** Es fan modificacions per adaptar-lo a nous entorns. 
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
