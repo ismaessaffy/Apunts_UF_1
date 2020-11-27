@@ -54,7 +54,7 @@
   - **Perfectiu:** Millora la funcionalitat.
   - **Evolutiu:** Afegeix funcioanalitats.
   - **Adaptatiu:** Es fan modificacions per adaptar-lo a nous entorns.
- - **Resultats que obtenim en cada fase.**
+- **Resultats que obtenim en cada fase.**
   - **Enginyeria de sistemes:** Especificació del sistema.
   - **Analisis:** Especificació de requisits de software.
   - **Diseny arquitectonic:** Un document que conté l'aquitectura del software.
