@@ -81,7 +81,7 @@
   - Les metodologies agils més conegudes:
     - **Kanban:** Inventat per l'enginyer de Toyota Taiichi Ohno durant els anys 40, es un sistema que atraves de targetes i pissares. Permet que tot el proces sigui controlat per la demanda a fi de fabricar el producte en el temps pertinent i en la quantitat justa. Busca donar el major valor possible al client amb el menor cost en recursos possible. 
     - **Scrum:** És un model de desdenvolupament incremental que consistexi en realizar iteracions periodiques en les que s'estableixe els objectius, i es realitza entrega parcial utilitzable pel clients. Es fan reunions diaries per controlar el proces. Hi ha tres rols principals, la veu del clients, el "Scrum Master" que s'encarrega que el proces vagi segons planificat i l'equip que es de entre 6 i 10 persones de diferentes disciplines que s'orgaitzen. En aquesta metodologia tambe tenim tres artefactes, una llista ordena dels requisits del producte, llista del requisits que es volen desenvolupar durant la iteració actual i l'increment que es el producte amb la millora afegida despres de cada sprint o iteració.
-    -**XP (eXtreme Programming)**
+    - **XP (eXtreme Programming):** La programació "extrema" es fonamenta apartir dels valors: Simplicitat, Comunicació, Retroalimentació, Valentia o coratge i Respecte o humiltat. La XP es caracteritza per Diseny senzills, l'aportacio de petites millores continuament, les proves i la refactorització, la integració contingua i la programació per parelles. El client s'integra en l'equip de desenvolupament i el codi es de propietat compartida.  
     
 
   
