@@ -71,7 +71,19 @@
   - **Prototips:** A vegades els requisits no estan especificats clarament degut a manca d'experiencia previa, omisio o falta de concreció per part del client. Es a dir que el desenvolupador fa un prototip durant la fase d'analisis, aquest prototip es presentat al client i apartir d'aqui es modifica. Es pot repetir aquest procés molts cops fins que es dona amb el que vol el client/usuari. Hi ha dos tipus de prototip:
    - **Prototips rapids:** Es un prototip que nomes te el proposit de saber que vol el client i cop acabat es pot eliminar.
    - **Prototips evolutius:** Son prototips que es fan amb les mateixses eines i llenguatges que el producte final i pertant es fan sercir com a base per desenvolupar el projecte. 
-   - **Model en espiral:** Desenvolupat per Boehm l'any 1998, es un model de desenvolupamnet que consisteix en fer que el proces passi per la comunicació amb el client, planificació, analisi de risc, enginyeria, construcció i adaptació i evalucio del client per cada fase. D'aquesta manera s'optimitza el temps ja que s'augmenta la participacio del client i pertant s'evita cometre errors que hagi de ser corregit de maneres poc convenients. 
+   - **Model en espiral:** Desenvolupat per Boehm l'any 1998, es un model de desenvolupamnet que consisteix en fer que el proces passi per la comunicació amb el client, planificació, analisi de risc, enginyeria, construcció i adaptació i evalucio del client per cada fase. D'aquesta manera s'optimitza el temps ja que s'augmenta la participacio del client i pertant s'evita cometre errors que hagin de ser corregit de maneres poc convenients. 
+### Metodologies àgils
+  - Son metodes basats en el desenvolupament iteratiu incremental (Es consulta el client despres de qualsevol canvi)
+  - Els requisits i les solucions evolucionen segons la necessitat-
+  - La tasca la fa un equip auto-organitzat de persones de varies disciplines que participen en la presa de decisions de curt termini.
+  -**Manifest per el desenvolupament agil:**
+    - Valorar més als individus i les interaccions que els processos i eines
+  - Les metodologies agils més conegudes:
+    - **Kanban:** Inventat per l'enginyer de Toyota Taiichi Ohno durant els anys 40, es un sistema que atraves de targetes i pissares. Permet que tot el proces sigui controlat per la demanda a fi de fabricar el producte en el temps pertinent i en la quantitat justa. Busca donar el major valor possible al client amb el menor cost en recursos possible. 
+    - **Scrum:** És un model de desdenvolupament incremental que consistexi en realizar iteracions periodiques en les que s'estableixe els objectius, i es realitza entrega parcial utilitzable pel clients. Es fan reunions diaries per controlar el proces. Hi ha tres rols principals, la veu del clients, el "Scrum Master" que s'encarrega que el proces vagi segons planificat i l'equip que es de entre 6 i 10 persones de diferentes disciplines que s'orgaitzen. En aquesta metodologia tambe tenim tres artefactes, una llista ordena dels requisits del producte, llista del requisits que es volen desenvolupar durant la iteració actual i l'increment que es el producte amb la millora afegida despres de cada sprint o iteració.
+    -**XP (eXtreme Programming)**
+    
+
   
    
   
