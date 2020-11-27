@@ -53,8 +53,17 @@
   - **Corretiu:** Es corregeixen defectes.
   - **Perfectiu:** Millora la funcionalitat.
   - **Evolutiu:** Afegeix funcioanalitats.
-  - **Adaptatiu:** Es fan modificacions per adaptar-lo a nous entorns. 
-  
+  - **Adaptatiu:** Es fan modificacions per adaptar-lo a nous entorns.
+ - **Resultats que obtenim en cada fase.**
+  - **Enginyeria de sistemes:** Especificació del sistema.
+  - **Analisis:** Especificació de requisits de software.
+  - **Diseny arquitectonic:** Un document que conté l'aquitectura del software.
+  - **Diseny detallat:** Especificació dels moduls (els elements que formen el sistema)
+  - **Codificació:** S'obté el codi font. 
+  - **Proves d'unitats:** Un  cop acabat el procés s'obtenent els mòduls utilitzables. 
+  - **Proves d'integració:** Es proven els moduls funcionant en conjunt i un cop finalitza aquest procés s'obté un sistema útil.
+  - **Documentació:** Documentacio per l'usuari i pels tecnics i desenvolupadors involucrats.
+  - **Manteniment:** Informes d'errors y un control dels canvis. 
   
 
 
